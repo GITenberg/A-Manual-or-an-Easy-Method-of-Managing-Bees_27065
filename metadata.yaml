@@ -1,0 +1,26 @@
+_repo: A-Manual-or-an-Easy-Method-of-Managing-Bees_27065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weeks, John M. (John Moseley)
+    birthdate: 1788
+    deathdate: 1858
+    gutenberg_agent_id: '32427'
+    url: http://www.gutenberg.org/2009/agents/32427
+description: ''
+gutenberg_issued: '2008-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Bees'
+title: A Manual or an Easy Method of Managing Bees
+url: http://www.gutenberg.org/ebooks/27065
